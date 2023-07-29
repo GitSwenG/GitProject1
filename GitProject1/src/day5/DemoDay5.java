@@ -7,4 +7,8 @@ public class DemoDay5 {
 		System.out.println("meow");
 		
 	}
+
+		public static void giveInfo() {
+		System.out.println("moo");
+	}
 }
