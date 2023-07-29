@@ -17,11 +17,15 @@ public class DemoDay2 {
 		
 	}
 
-		public static void divide(int a, int b) {
+	public static void divide(int a, int b) {
 		System.out.println(a/b);
 	}
 
-		public static void add(int a, int b, int c) {
+	public static void add(int a, int b, int c) {
 		System.out.println(a + b + c);
+	}
+
+	public static void add(double a, double b) {
+		System.out.println(a + b);
 	}
 }
