@@ -8,7 +8,11 @@ public class DemoDay5 {
 		
 	}
 
-		public static void giveInfo() {
+	public static void giveInfo() {
 		System.out.println("moo");
+	}
+	
+	public static void getInfo() {
+		System.out.println("woof");
 	}
 }
